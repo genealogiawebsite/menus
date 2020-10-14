@@ -1,29 +1,29 @@
 {
-    "name": "laravel-enso/menus",
+    "name": "genealogiawebsite/menus",
     "description": "Menu Manager dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "menus",
         "menu-manager",
         "breadcrumbs",
         "laravel-menu"
     ],
-    "homepage": "https://github.com/laravel-enso/Menus",
+    "homepage": "https://github.com/genealogiawebsite/Menus",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^6.0",
-        "laravel-enso/forms": "^4.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/permissions": "^4.0",
-        "laravel-enso/roles": "^4.0",
-        "laravel-enso/tables": "^4.0"
+        "genealogiawebsite/core": "^6.0",
+        "genealogiawebsite/forms": "^4.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/permissions": "^4.0",
+        "genealogiawebsite/roles": "^4.0",
+        "genealogiawebsite/tables": "^4.0"
     },
     "autoload": {
         "psr-4": {
